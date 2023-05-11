@@ -839,10 +839,10 @@
     }
 }
  @media screen and (max-width: 450px) {
-     section.breaking article{
+     .breaking article{
          padding:20px;
     }
-     section.breaking .highlight div{
+     .breaking .highlight div{
          padding:10px;
     }
      .footer-wrapper{
