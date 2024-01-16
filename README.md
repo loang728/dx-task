@@ -2,7 +2,7 @@ Project Details
 
 index.html
 The main structural file of the site adhering to SEO practices. Elements are organized hierarchically.
-
+/n
 menu.js
 Contains functionality related to the website's menu.
 
