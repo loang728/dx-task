@@ -1,18 +1,16 @@
-# dx-task
+Project Details
 
-Структура
-Дизайнът е разделен на отделни секции-section.
-Има единствено h1 за страницата и h2 за всяка секция.
-Всяка от тях си има articles за различните постове, имат  h3.
+index.html
+The main structural file of the site adhering to SEO practices. Elements are organized hierarchically.
 
-Стилове
-Разработени са основни класове за елементите, с добавени подкласове за разликите.
-Всеки пост си има клас за основния дизайн, който се визуализира с някои разлики в зависимост в какъв  елемент се намира.
+menu.js
+Contains functionality related to the website's menu.
 
-Мобилни версии
-Разработен е изцяло респонсив, като елементите се пренареждат, така че да изглежда добрена всякакъв екран.
+style.css
+Defines global classes for similar elements, with subclasses handling specific differences.
 
-Функционалност
-Менюто на мобилната версия е реализирано с javascript 
+Usage
+Explore and navigate the blog site by interacting with the various elements on the webpage.
 
-
+Responsiveness
+The website is fully responsive.
